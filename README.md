@@ -76,15 +76,22 @@ void UpdateRacers(float deltaTimeS, List<Racer> racers)
 ```
 
 ⦁	Rewrite the method to improve its readability and performance without changing its behaviour.
+
 ⦁	Describe further changes you would make if you could change its behaviour. Discuss your reasoning for making these changes.
 
 2.
 ⦁	You are working on a match-3 game with the following rules
+
 ⦁	Pairs of jewels adjacent vertically and horizontally can be swapped.
+
 ⦁	You can only swap jewels when this will result in a match being created.
+
 ⦁	A match happens when there are 3 or more jewels of the same kind adjacent vertically or horizontally.
+
 ⦁	All jewels involved in matches are set to JewelKind::Empty after each move.
+
 ⦁	One point is given for each jewel that has been removed. The best move for a given board is thus the one that will remove the most jewels.
+
 ⦁	The initial board state contains no matches; therefore swapping jewels is the only way matches can be created.
  
 Given the code below implement the CalculateBestMoveForBoard function.
