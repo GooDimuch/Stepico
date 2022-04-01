@@ -75,10 +75,10 @@ void UpdateRacers(float deltaTimeS, List<Racer> racers)
 }
 ```
 
-2.
 ⦁	Rewrite the method to improve its readability and performance without changing its behaviour.
 ⦁	Describe further changes you would make if you could change its behaviour. Discuss your reasoning for making these changes.
 
+2.
 ⦁	You are working on a match-3 game with the following rules
 ⦁	Pairs of jewels adjacent vertically and horizontally can be swapped.
 ⦁	You can only swap jewels when this will result in a match being created.
