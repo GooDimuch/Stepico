@@ -1,5 +1,5 @@
 # Stepico
-Данное тестовое задание считаю очень странным, но какое дали. Результат требует некоторых пояснений с моей стороны!!!
+I think the test task is strange. The result requires some my explanation!!!
 
 1.
 ⦁	Consider a hypothetical racing game where hundreds of cars race on a field. The updateRacers method shown below updates the cars and eliminates the ones that collide. 
